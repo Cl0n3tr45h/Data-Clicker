@@ -12,6 +12,21 @@ public class DummyCode {
 	}
 	
 	
+	public double getCostIncrease() {
+		return costIncrease;
+	}
+
+
+	public void setCostIncrease(double costIncrease) {
+		this.costIncrease = costIncrease;
+	}
+
+
+	public void setCurrentcost(int currentcost) {
+		this.currentcost = currentcost;
+	}
+
+
 	public int getInitialcost() {
 		return initialcost;
 	}
