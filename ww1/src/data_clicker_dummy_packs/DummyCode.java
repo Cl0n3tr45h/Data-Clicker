@@ -1,5 +1,7 @@
 package data_clicker_dummy_packs;
 
+//this is a change
+
 public class DummyCode {
 	
 	private final int initialcost = 50 ;
