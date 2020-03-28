@@ -11,7 +11,7 @@ public class DummyCode {
 	//private int visibilityAmount = 100;
 	
 	//unstaged?
-	
+	//test UwU
 	public DummyCode (int cost) {
 		this.initialcost=cost; 
 	}
