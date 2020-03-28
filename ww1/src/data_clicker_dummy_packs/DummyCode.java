@@ -9,7 +9,7 @@ public class DummyCode {
 	//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 	//BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 	//unstaged? 
-	//test UwU
+	//test UwU lol
 	public DummyCode (int cost) {
 		this.initialcost=cost; 
 	}
