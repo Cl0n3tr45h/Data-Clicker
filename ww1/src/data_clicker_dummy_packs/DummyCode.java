@@ -10,7 +10,8 @@ public class DummyCode {
 	//private int visibilityAmount = 100;
 	
 	
-	public DummyCode () {
+	public DummyCode (int cost) {
+		this.initialcost=cost; 
 	}
 	
 	
