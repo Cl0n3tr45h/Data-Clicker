@@ -7,6 +7,7 @@ public class DummyCode {
 	private double costIncrease = 1.15;  //115%
 	//private int visibilityAmount = 100;
 	//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	//BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 	//unstaged? 
 	//test UwU
 	public DummyCode (int cost) {
