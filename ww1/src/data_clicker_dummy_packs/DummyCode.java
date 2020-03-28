@@ -43,6 +43,8 @@ public class DummyCode {
 		if(costIncrease<1.00) costIncrease+=1.00;
 		currentcost = (int) (currentcost*costIncrease);
 		this.currentcost = currentcost;
+
+		//
 	}
 
 }
