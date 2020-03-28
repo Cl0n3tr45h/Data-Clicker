@@ -9,8 +9,8 @@ public class DummyCode {
 	private int currentcost = initialcost;
 	private double costIncrease = 1.15;  //115%
 	//private int visibilityAmount = 100;
-	
-	//unstaged?
+	//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	//unstaged? 
 	//test UwU
 	public DummyCode (int cost) {
 		this.initialcost=cost; 
