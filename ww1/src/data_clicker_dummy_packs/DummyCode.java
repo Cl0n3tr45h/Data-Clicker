@@ -10,6 +10,7 @@ public class DummyCode {
 	private double costIncrease = 1.15;  //115%
 	//private int visibilityAmount = 100;
 	
+	//unstaged?
 	
 	public DummyCode (int cost) {
 		this.initialcost=cost; 
