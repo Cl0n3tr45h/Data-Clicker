@@ -45,7 +45,7 @@ public class DummyCode {
 		currentcost = (int) (currentcost*costIncrease);
 		this.currentcost = currentcost;
 
-		//
+		// hallo ihr nuggets
 	}
 
 }
